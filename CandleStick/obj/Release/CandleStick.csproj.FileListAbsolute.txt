@@ -1,0 +1,14 @@
+C:\Users\GM\Documents\CandleStick\CandleStick\bin\Release\CandleStick.dll
+C:\Users\GM\Documents\CandleStick\CandleStick\bin\Release\CandleStick.pdb
+C:\Users\GM\Documents\CandleStick\CandleStick\obj\Release\CandleStick.Setting.resources
+C:\Users\GM\Documents\CandleStick\CandleStick\obj\Release\CandleStick.csproj.GenerateResource.cache
+C:\Users\GM\Documents\CandleStick\CandleStick\obj\Release\CandleStick.csproj.CoreCompileInputs.cache
+C:\Users\GM\Documents\CandleStick\CandleStick\obj\Release\CandleStick.dll
+C:\Users\GM\Documents\CandleStick\CandleStick\obj\Release\CandleStick.pdb
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStick\bin\Release\CandleStick.dll
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStick\bin\Release\CandleStick.pdb
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStick\obj\Release\CandleStick.Setting.resources
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStick\obj\Release\CandleStick.csproj.GenerateResource.Cache
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStick\obj\Release\CandleStick.csproj.CoreCompileInputs.cache
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStick\obj\Release\CandleStick.dll
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStick\obj\Release\CandleStick.pdb

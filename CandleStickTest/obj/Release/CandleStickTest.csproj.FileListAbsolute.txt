@@ -1,0 +1,12 @@
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\bin\Release\CandleStickTest.exe.config
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\bin\Release\CandleStickTest.exe
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\bin\Release\CandleStickTest.pdb
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\bin\Release\CandleStick.dll
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\bin\Release\CandleStick.pdb
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\obj\Release\CandleStickTest.csprojResolveAssemblyReference.cache
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\obj\Release\CandleStickTest.Form1.resources
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\obj\Release\CandleStickTest.Properties.Resources.resources
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\obj\Release\CandleStickTest.csproj.GenerateResource.Cache
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\obj\Release\CandleStickTest.csproj.CoreCompileInputs.cache
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\obj\Release\CandleStickTest.exe
+C:\Users\Arthas\Documents\Biance\CandleStick\CandleStick\CandleStickTest\obj\Release\CandleStickTest.pdb

@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.8
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandleStick", "CandleStick\CandleStick.csproj", "{A1700990-39DA-4609-8C39-B829CF418B86}"
+	ProjectSection(ProjectDependencies) = postProject
+		{8BCF44F6-A5A5-48B2-8A9E-8EE0A34B74D5} = {8BCF44F6-A5A5-48B2-8A9E-8EE0A34B74D5}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CandleStickTest", "CandleStickTest\CandleStickTest.csproj", "{8BCF44F6-A5A5-48B2-8A9E-8EE0A34B74D5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1700990-39DA-4609-8C39-B829CF418B86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1700990-39DA-4609-8C39-B829CF418B86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1700990-39DA-4609-8C39-B829CF418B86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1700990-39DA-4609-8C39-B829CF418B86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BCF44F6-A5A5-48B2-8A9E-8EE0A34B74D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCF44F6-A5A5-48B2-8A9E-8EE0A34B74D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCF44F6-A5A5-48B2-8A9E-8EE0A34B74D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCF44F6-A5A5-48B2-8A9E-8EE0A34B74D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB4C3215-8FA2-4F64-B717-81B6788D4D1C}
+	EndGlobalSection
+EndGlobal
